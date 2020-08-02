@@ -1,0 +1,40 @@
+body{
+	 background-color: yellow;
+}
+#header-nav{
+	background-color: #5affae;
+	height: 100px;
+}
+nav div {
+	font-size: 2em;
+	font-style: bold;
+	color: black;
+	text-align: center;
+}
+#hr{
+	width: 80%;
+	align-self: center;
+	background-color: black;
+}
+/*-----------------------------------------------------media queries--------------------------------------------------------*/
+/*destop
+@media (min-width:1200px ){
+
+
+}
+
+tablet
+
+@media (max-width:1999px min-width: 800px ){
+
+
+}
+
+
+phone
+@media (max-width:799px ){
+
+
+}
+
+-----------------------------------------------------end of media queries--------------------------------------------------------*/
